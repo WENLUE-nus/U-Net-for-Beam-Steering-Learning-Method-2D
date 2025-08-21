@@ -38,6 +38,9 @@ The U-Net model applied in this work is based on the original design proposed in
 ---
 
 ## 🛠 Usage
+Please manually modify the following lines in `main.py` to match your local environment:
+
+Line No. 21, 29, 30, 50.
 
 This repository provides pre-configured training scripts for the two-stage U-Net refinement.
 
