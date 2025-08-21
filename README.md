@@ -37,16 +37,6 @@ The U-Net model applied in this work is based on the original design proposed in
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/your-username/Beam-Steering-2D.git
-cd Beam-Steering-2D/beam_unet
-pip install -r requirements.txt
-```
-
 ## 🛠 Usage
 
 This repository provides pre-configured training scripts for the two-stage U-Net refinement.
